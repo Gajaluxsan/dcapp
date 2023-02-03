@@ -1,0 +1,22 @@
+.dcimg img{
+	border: solid white 9px;
+	box-shadow: 10px 10px 5px #aaaaaa;
+	border-radius: 50px;
+}
+.aboutdoct table{
+	margin-top: 50px;
+}
+.aboutdoct tr{
+	width: 100%;
+	font-size: 18px;
+	font-weight: 400;
+
+}
+.aboutdoct tr td:first-child{
+
+width: 45%;
+padding: 4px;
+}
+.loginform form{
+	margin-top: 150px;
+}
